@@ -1,1 +1,1 @@
-# jedalto.github.io
+# jedalto.github.io/csce190/
