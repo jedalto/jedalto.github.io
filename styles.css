@@ -3,9 +3,11 @@ body {
     font-family:Arial, Helvetica, sans-serif;
 }
 
-.assignment {
+.assignment{
     display:flex;
+    background: red;
     padding:10px;
+
 }
 
 .assignment img {
